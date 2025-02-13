@@ -3,7 +3,7 @@
   "name": "BLE Connect and scan",
   "shortName": "BLE Connect",
   "icon": "BTApp.png",
-  "version": "0.02",
+  "version": "0.05",
   "description": "Bluetooth Scanner & Connector for BLE devices",
   "tags": "Bluetooth, BLE, Connect",
   "supports": ["BANGLEJS2"],
