@@ -4,11 +4,9 @@
   "shortName": "BLE Connect",
   "icon": "BTApp.png",
   "version": "0.02",
-  "allow_emulator": false,
   "description": "Bluetooth Scanner & Connector for BLE devices",
   "tags": "Bluetooth, BLE, Connect",
   "supports": ["BANGLEJS2"],
-  "readme": "README.md",
   "storage": [
     {"name": "BLE_Connect.app.js", "url":"app.js"},
     {"name": "BTApp.png", "url": "app-icon.js", "evaluate":true}
