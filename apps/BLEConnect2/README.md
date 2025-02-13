@@ -1,3 +1,3 @@
-# BLE-Connect
+# BLE_Connect
 
-custom app to scan and connect to ble devices. 
+Custom app to scan and connect to BLE devices. 
