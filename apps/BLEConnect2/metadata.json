@@ -1,10 +1,9 @@
 {
-  "id": "BLE_Connect",
-  "name": "BLE Connect and scan",
-  "shortName": "BLE Connect",
-  "icon": "app.png",
+  "id": "BLE_Connect2",
+  "name": "BLE Connect2",
   "version": "0.05",
   "description": "Custom app to scan and connect to BLE devices.",
+  "icon": "app.png",
   "tags": "Bluetooth, BLE, Connect",
   "supports": ["BANGLEJS2"],
   "dependencies" : { "openstmap":"app" },
