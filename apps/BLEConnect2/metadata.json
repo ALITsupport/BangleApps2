@@ -1,15 +1,15 @@
 {
-  "id": "BLEConnect2",
-  "name": "BLE Connect2",
+  "id": "BLE_Connect",
+  "name": "BLE Connect and Scan",
+  "shortName": "BLE Connect",
+  "icon": "app.png",
   "version": "0.05",
   "description": "Custom app to scan and connect to BLE devices.",
-  "icon": "app.png",
-  "tags": "Bluetooth, BLE, Connect",
+  "tags": ["Bluetooth", "BLE", "Connect"],
   "supports": ["BANGLEJS2"],
-  "dependencies" : { "openstmap":"app" },
-"storage": [
-  { "name": "BLEconnect2.app.js", "url": "app.js" },
-  { "name": ":BLEconnect2.img", "url": "app-icon.js", "evaluate": false }
-]
-
+  "dependencies": { "openstmap": "app" },
+  "storage": [
+    { "name": "BLEconnect2.app.js", "url": "https://github.com/ALITsupport/BangleApps2/blob/master/apps/BLEConnect2/app.js" },
+    { "name": ":BLEconnect2.img", "url": "https://github.com/ALITsupport/BangleApps2/blob/master/apps/BLEConnect2/app-icon.js", "evaluate": false }
+  ]
 }
