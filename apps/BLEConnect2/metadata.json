@@ -1,5 +1,5 @@
 {
-  "id": "BLE_Connect2",
+  "id": "BLEConnect2",
   "name": "BLE Connect2",
   "version": "0.05",
   "description": "Custom app to scan and connect to BLE devices.",
